@@ -1,0 +1,16 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace FaceScan.Interfaces
+{
+    public interface IFaceScanCoordinates
+    {
+        public float FaceXCoordinate { get; }
+        public float FaceYCoordinate { get; }
+        public float Width { get; }
+        public float Height { get; }
+    }
+}
