@@ -11,11 +11,11 @@
     <PackageIcon>face-scan.png</PackageIcon>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <PackageLicenseFile>LICENSE.txt</PackageLicenseFile>
-    <Authors>quiggles943</Authors>
+    <Authors>Quiggles943</Authors>
     <Company />
     <IncludeSymbols>True</IncludeSymbols>
-    <Version>1.0.2</Version>
-    <PackageReleaseNotes>Updated to include symbols and update authors</PackageReleaseNotes>
+    <Version>1.0.3</Version>
+    <PackageReleaseNotes>Updated to include new interfaces for Face Scan results</PackageReleaseNotes>
   </PropertyGroup>
 
   <ItemGroup>
