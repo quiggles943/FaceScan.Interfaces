@@ -6,7 +6,7 @@
     <Nullable>enable</Nullable>
     <Title>FaceScan.Interfaces</Title>
     <Description>Base Interfaces and Structures used for FaceScan</Description>
-    <RepositoryUrl>https://github.com/quiggles943/FaceScan</RepositoryUrl>
+    <RepositoryUrl>https://github.com/quiggles943/FaceScan.Interfaces</RepositoryUrl>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <PackageIcon>face-scan.png</PackageIcon>
     <PackageReadmeFile>README.md</PackageReadmeFile>
@@ -14,8 +14,8 @@
     <Authors>Quiggles943</Authors>
     <Company />
     <IncludeSymbols>True</IncludeSymbols>
-    <Version>1.0.4</Version>
-    <PackageReleaseNotes>Updated to include new interfaces for Face Scan results</PackageReleaseNotes>
+    <Version>1.0.5</Version>
+    <PackageReleaseNotes>Added new scannedFace interface which includes age and gender classifiers</PackageReleaseNotes>
   </PropertyGroup>
 
   <ItemGroup>
@@ -39,7 +39,7 @@
   <PropertyGroup>
     <IncludeSymbols>true</IncludeSymbols>
     <SymbolPackageFormat>snupkg</SymbolPackageFormat>
-    <AssemblyVersion>1.0.4</AssemblyVersion>
+    <AssemblyVersion>1.0.5</AssemblyVersion>
   </PropertyGroup>
 
 </Project>
