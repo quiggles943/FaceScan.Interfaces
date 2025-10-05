@@ -1,9 +1,7 @@
 ﻿namespace FaceScan.Interfaces
 {
-    public interface IScannedFace
+    public interface IScannedFace: IFaceModel
     {
-
-        public IReadOnlyCollection<float> GetVectors();
         public IReadOnlyCollection<ILandmark> GetLandmarks();
         public FaceScanCoordinates GetCoordinates();
         public float? GetConfidence();

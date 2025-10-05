@@ -14,7 +14,7 @@
     <Authors>Quiggles943</Authors>
     <Company />
     <IncludeSymbols>True</IncludeSymbols>
-    <Version>1.0.5</Version>
+    <Version>1.0.6</Version>
     <PackageReleaseNotes>Added new scannedFace interface which includes age and gender classifiers</PackageReleaseNotes>
   </PropertyGroup>
 
@@ -39,7 +39,7 @@
   <PropertyGroup>
     <IncludeSymbols>true</IncludeSymbols>
     <SymbolPackageFormat>snupkg</SymbolPackageFormat>
-    <AssemblyVersion>1.0.5</AssemblyVersion>
+    <AssemblyVersion>1.0.6</AssemblyVersion>
   </PropertyGroup>
 
 </Project>
